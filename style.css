@@ -36,6 +36,14 @@ header {
   gap: 15px;
 }
 
+.meeting img {
+  width: 50%;
+  height: 50%;
+  margin-left: 24%;
+  background-color: gainsboro;
+  border: 1px solid gainsboro;
+}
+
 .nav li a img {
   width: 2px;
   height: 3px;
@@ -126,13 +134,22 @@ header {
   width: 102.5%;
 }
 
+.overlay2 {
+  background: rgb(255 255 255 / 90%);
+  background-image: url("Images/bg7.png");
+  background-size: cover;
+  overflow: hidden;
+  height: 100%;
+  width: 102.5%;
+}
+
 .header-container {
   width: 100%;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
   gap: 2px;
-  padding: 36px 24px 115px;
+  padding: 70px 20px 200px;
 }
 
 .header-container .title1 {
@@ -190,6 +207,22 @@ header {
   font-weight: 800;
   color: #272a318e;
   margin-left: 12px;
+}
+
+.reference3 {
+  width: 60%;
+  font-size: 12px;
+  font-weight: 800;
+  margin-left: 10%;
+  line-height: 20px;
+  margin-top: 8%;
+}
+
+.reference4 {
+  font-size: 15px;
+  font-weight: 800;
+  color: black;
+  margin-left: 10%;
 }
 
 .list-partnerdesk {
@@ -633,6 +666,21 @@ footer {
     color: #272a31;
   }
 
+  .meeting img {
+    width: 50%;
+    height: 50%;
+    margin-left: 20%;
+    background-color: gainsboro;
+  }
+
+  .meeting .meet {
+    margin-top: 5%;
+  }
+
+  .meeting .meet2 {
+    margin-top: 10%;
+  }
+
   footer {
     height: 120px;
     width: 100%;
@@ -862,4 +910,27 @@ footer {
   .partnerchild {
     margin-top: 2%;
   }
+
+  .meeting {
+    display: flex;
+    justify-content: space-between;
+    gap: 3%;
+    width: 50%;
+    margin: 40px 15px;
+  }
+
+  .para5 {
+    display: none;
+  }
+}
+
+.para5 {
+  width: 70%;
+  color: #272a318e;
+  font-weight: 700;
+}
+
+.para56 {
+  color: #272a318e;
+  font-weight: 700;
 }

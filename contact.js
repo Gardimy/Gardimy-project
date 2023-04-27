@@ -53,4 +53,3 @@ contactInfos.forEach((conference) => {
     `);
   presenter6.appendChild(allpresenter);
 });
-	
