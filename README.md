@@ -30,13 +30,10 @@ A Microverse exercise to use animation on a website
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖Validate contact form<a name="about-project"></a>
+# 📖Capstone Project<a name="about-project"></a>
 
-> **Validate contact form** is a starter exercise to create a portfolio website that can be used by multiple
-devices by listing the portfolio projects. And also using CSS animation makes the website more interactive. 
-It is based on specific settings and requirements to ensure proper structure and best practices. 
-By cloning this repo and running `npm install` we will have a basic portfolio with properly configured linters,  
-eslint and the correct initial file structu
+> **Capstone project**
+This project was a requirement of module one, where we learned HTML, CSS and JavaScript, also the importance of git workflows following best practices of committing early and often. The use of linters to ensure code quality follows the HTML and CSS best practices. It is based on specific settings and requirements to ensure proper structure and best practices. By cloning this repo and running `npm install` we will have a basic Capstone project with properly configured linters, eslint and the correct initial file structure.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,8 +70,6 @@ eslint and the correct initial file structu
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://gardimy.github.io/Mobile-first/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,12 +121,6 @@ To run the linters before committing any changes to your code, execute the follo
 - Twitter: [@gardyelontiga45](https://twitter.com/gardyelontiga45)
 - LinkedIn: [Gardimy charles](https://www.linkedin.com/in/gardimy-charles)
 
-> 👤 **Mahmudur Rahman**
-
-- GitHub: [@MoyasiGinko](https://github.com/MoyasiGinko)
-- LinkedIn: [@mahmudur-rahman-a8a151257](https://www.linkedin.com/in/mahmudur-rahman-a8a151257/)
-- Twitter: [@moyasi_ginko](https://twitter.com/moyasi_ginko)
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -144,7 +133,7 @@ To run the linters before committing any changes to your code, execute the follo
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Gardimy/Mobile-first/issues/7).
+Feel free to check the [issues page](https://github.com/Gardimy/Gardimy-project/issues/2).
 
 <!-- SUPPORT -->
 
