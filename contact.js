@@ -6,13 +6,13 @@ const contactInfos = [
     presenterinfo: 'Gardimy Charles (born 5 August 1995) is a Haitien electronic engineer and Actually ,learning Full stack web development at Microverse. He was Working at INUKA University as a computer lab engineer.',
   },
   {
-    presenterpicture: 'Images/Jennifer.jpg',
+    presenterpicture: 'Images/Jennifer.JPG',
     name: 'Jennifer Jolly',
     title: 'Consumer Technology Journalis',
     presenterinfo: 'Jennifer Jolly (born February 22, 1971) is an American consumer technology journalist and TV broadcaster. She is a Wired Well columnist for The New York Times, tech-life columnist and host of Tech Now for USA Today, and a digital lifestyle contributor for The Today Show.',
   },
   {
-    presenterpicture: 'Images/Christina.jpg',
+    presenterpicture: 'Images/Christina.JPG',
     name: 'Christina Desir',
     title: 'Electronic engineer,  UX designer',
     presenterinfo: 'Christina Desir : born in Haïti, (June 1996) graduate in engineering electronic , worked as a computer lab instructor , currently works as saleswoman in a small electronic store. Director of operations in a hair products company (Chrissy kreyol).',
@@ -24,7 +24,7 @@ const contactInfos = [
     presenterinfo: 'Dr. Yijun Yu ,professor at the Open University in the UK, and his research focuses on developing intelligent systems that can learn from and adapt to the behavior of individuals and households. His work includes developing personalized smart home systems that can adjust to the needs and preferences of individual users.',
   },
   {
-    presenterpicture: 'Images/Ricardo.jpg',
+    presenterpicture: 'Images/Ricardo.JPG',
     name: 'Saint Louis Ricardo',
     title: 'Electronic engineer',
     presenterinfo: 'Saint Louis Louis Ricardo (born 13 October 1992) is a Haitian student and computer lab administrator. Between 2021 and 2023. He works as a engineer(Play TV).',

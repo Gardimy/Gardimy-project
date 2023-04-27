@@ -581,6 +581,10 @@ footer {
     font-size: 2.1vw;
   }
 
+  .para56 {
+    display: none;
+  }
+
   #mobilemenu {
     opacity: 0;
     animation: option 0.5s ease-in-out 0.1s 1 forwards;
