@@ -127,7 +127,7 @@ header {
 
 #overlay {
   background: rgb(255 255 255 / 90%);
-  background-image: url("./images/bg2.JPG");
+  background-image: url("./images/bg2.PNG");
   background-size: cover;
   overflow: hidden;
   height: 100%;
