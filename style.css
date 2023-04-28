@@ -127,7 +127,7 @@ header {
 
 #overlay {
   background: rgb(255 255 255 / 90%);
-  background-image: url("Images/bg2.jpg");
+  background-image: url("./Images/bg2.jpg");
   background-size: cover;
   overflow: hidden;
   height: 100%;
@@ -136,7 +136,7 @@ header {
 
 .overlay2 {
   background: rgb(255 255 255 / 90%);
-  background-image: url("Images/bg7.png");
+  background-image: url("./Images/bg7.png");
   background-size: cover;
   overflow: hidden;
   height: 100%;
@@ -884,16 +884,37 @@ footer {
     flex-direction: row;
   }
 
+  .footer23 {
+    text-align: center;
+    align-content: center;
+    padding: 4%;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+  }
+
   .home-2,
   .enterprise,
   .gdm {
     display: block;
   }
 
+  .enterprise23 {
+    color: #fff;
+    margin-right: 6%;
+    line-height: 24px;
+  }
+
   .home-2 {
     width: 100%;
     margin-left: 100%;
     color: black;
+  }
+
+  .home-23 {
+    width: 100%;
+    margin-left: 100%;
+    color: #fff;
   }
 
   .enterprise {
@@ -905,6 +926,12 @@ footer {
     width: 53%;
     margin-left: 35%;
     color: black;
+  }
+
+  .gdm23 {
+    width: 53%;
+    margin-left: 35%;
+    color: #fff;
   }
 
   .partnerchild {

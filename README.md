@@ -143,7 +143,7 @@ Feel free to check the [issues page](https://github.com/Gardimy/Gardimy-project/
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank [Microverse](https://www.microverse.org/) for teaching me these tools.
+> I would like to thank [Cindy Shin](https://www.behance.net/adagio07) for Preparing this guideline which help me build my Website.
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
