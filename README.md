@@ -71,9 +71,9 @@ Capstone project This project was a requirement of module one, where we learned 
 - [Live Demo Link](https://gardimy.github.io/Gardimy-project/)
 
 <!-- Presentation of the Capstone -->
-## 🚀 Video record <a name="Presentation"></a>
+## 🚀 Video <a name="Presentation"></a>
 
-- [Video record Link](https://www.loom.com/share/c7ea11c9f71244ca8a6446d8fa8465f5)
+- [Video Presentation Link](https://www.loom.com/share/5aeaad2512b94418b4ba02715231964c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
