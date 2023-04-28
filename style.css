@@ -39,7 +39,6 @@ header {
 .meeting img {
   width: 50%;
   height: 50%;
-  margin-left: 24%;
   background-color: gainsboro;
   border: 1px solid gainsboro;
 }
@@ -441,6 +440,12 @@ footer {
     margin: 30px 6px;
   }
 
+  .para56 {
+    color: #272a318e;
+    font-weight: 700;
+    display: none;
+  }
+
   .bar {
     display: block;
     width: 30px;
@@ -631,6 +636,10 @@ footer {
     animation-delay: 1s;
   }
 
+  .Partnercontainer23 {
+    display: block;
+  }
+
   .login {
     display: flex;
     height: 10%;
@@ -669,16 +678,53 @@ footer {
   .meeting img {
     width: 50%;
     height: 50%;
-    margin-left: 20%;
     background-color: gainsboro;
   }
 
-  .meeting .meet {
-    margin-top: 5%;
+  .meeting {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    gap: 8%;
   }
 
-  .meeting .meet2 {
+  .meet {
+    width: 50vh;
+    height: 35vh;
+    background-image: url("./images/bg8.PNG");
+    background-size: cover;
+  }
+
+  .meet2 {
+    width: 50vh;
+    height: 35vh;
     margin-top: 10%;
+    background-image: url("./images/bg9.PNG");
+    background-size: cover;
+  }
+
+  .meet .center {
+    margin-top: 23%;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .meet2 .center {
+    margin-top: 23%;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .meet,
+  .meet2,
+  .center2 {
+    color: #fff;
+    font-weight: 400;
   }
 
   footer {
@@ -940,17 +986,56 @@ footer {
 
   .meeting {
     display: flex;
-    justify-content: space-between;
-    gap: 3%;
-    width: 50%;
-    margin: 40px 15px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    gap: 5%;
+  }
+
+  .meet {
+    width: 70vh;
+    height: 35vh;
+    background-image: url("./images/bg8.PNG");
+    background-size: cover;
+  }
+
+  .meet2 {
+    width: 70vh;
+    height: 35vh;
+    background-image: url("./images/bg9.PNG");
+    background-size: cover;
+  }
+
+  .meet .center {
+    margin-top: 23%;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .meet2 .center {
+    margin-top: 23%;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .meet,
+  .meet2,
+  .center2 {
+    color: #fff;
+    font-weight: 400;
   }
 
   .meeting img {
     width: 50%;
     height: 50%;
-    margin-left: 34%;
     background-color: gainsboro;
+  }
+
+  .Partnercontainer23 {
+    display: none;
   }
 
   .para5 {
