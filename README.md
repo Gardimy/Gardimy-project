@@ -31,9 +31,7 @@ A Microverse exercise to use animation on a website
 
 <!-- PROJECT DESCRIPTION -->
 # 📖Capstone Project<a name="about-project"></a>
-
-> **Capstone project**
-This project was a requirement of module one, where we learned HTML, CSS and JavaScript, also the importance of git workflows following best practices of committing early and often. The use of linters to ensure code quality follows the HTML and CSS best practices. It is based on specific settings and requirements to ensure proper structure and best practices. By cloning this repo and running `npm install` we will have a basic Capstone project with properly configured linters, eslint and the correct initial file structure.
+Capstone project This project was a requirement of module one, where we learned HTML, CSS and JavaScript, also the importance of git workflows following best practices of committing early and often. The use of linters to ensure code quality follows the HTML and CSS best practices. It is based on specific settings and requirements to ensure proper structure and best practices. By cloning this repo and running npm install we will have a basic Capstone project with properly configured linters, eslint and the correct initial file structure.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -68,8 +66,14 @@ This project was a requirement of module one, where we learned HTML, CSS and Jav
       - name: ESLint Report
 
 <!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://gardimy.github.io/Gardimy-project/)
+
+<!-- Presentation of the Capstone -->
+## 🚀 Video <a name="Presentation"></a>
+
+- [Video Presentation Link](https://www.loom.com/share/5aeaad2512b94418b4ba02715231964c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,7 +149,7 @@ Feel free to check the [issues page](https://github.com/Gardimy/Gardimy-project/
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank [Microverse](https://www.microverse.org/) for teaching me these tools.
+> I would like to thank [Cindy Shin](https://www.behance.net/adagio07) for Preparing this guideline which help me build my Website.
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
