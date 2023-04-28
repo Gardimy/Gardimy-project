@@ -887,7 +887,7 @@ footer {
   .footer23 {
     text-align: center;
     align-content: center;
-    padding: 4%;
+    padding: 5%;
     display: flex;
     flex-direction: row;
     background-color: black;
@@ -944,6 +944,13 @@ footer {
     gap: 3%;
     width: 50%;
     margin: 40px 15px;
+  }
+
+  .meeting img {
+    width: 50%;
+    height: 50%;
+    margin-left: 34%;
+    background-color: gainsboro;
   }
 
   .para5 {
